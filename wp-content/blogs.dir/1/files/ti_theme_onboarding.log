@@ -1,0 +1,42 @@
+[19/Jul/2019:03:36:47] (ℹ️): WordPress Instance Info:
+[19/Jul/2019:03:36:47] (ℹ️): Home URL : http://neoxenos.org
+[19/Jul/2019:03:36:47] (ℹ️): Site URL : https://neoxenos.org
+[19/Jul/2019:03:36:47] (ℹ️): WordPress Version : 5.2.2
+[19/Jul/2019:03:36:47] (ℹ️): Onboarding Version : 1.4.1
+[19/Jul/2019:03:36:47] (ℹ️): Multisite : Yes
+[19/Jul/2019:03:36:47] (ℹ️): Server Info : Apache
+[19/Jul/2019:03:36:47] (ℹ️): PHP Version : 7.3.0
+[19/Jul/2019:03:36:47] (ℹ️): HTTPS : Yes
+[19/Jul/2019:03:36:47] (ℹ️): PHP Max Execution Time : 120
+[19/Jul/2019:03:36:47] (ℹ️): PHP Max Input Vars : 1000
+[19/Jul/2019:03:36:47] (ℹ️): Max Upload Size : 41943040
+[19/Jul/2019:03:36:47] (ℹ️): Plugins:
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Redux Framework : v3.6.15 (Team Redux)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Akismet Anti-Spam : v4.1.2 (Automattic)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Broken Link Checker : v1.11.8 (ManageWP)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] FV Player : v7.3.19.727 ()
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Page Builder by SiteOrigin : v2.10.6 (SiteOrigin)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] SiteOrigin CSS : v1.2.4 (SiteOrigin)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] SiteOrigin Widgets Bundle : v1.15.7 (SiteOrigin)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] The Events Calendar : v4.9.4 (Modern Tribe, Inc.)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] UpdraftPlus - Backup/Restore : v1.16.15 (UpdraftPlus.Com, DavidAnderson)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Usernoise : v3.7.20 (CherryDev)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] WordPress Importer : v0.6.4 (wordpressdotorg)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] WP-Footnotes : v4.2.2 (Simon Elvery)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] WP to Twitter : v3.4.0 (Joseph C Dolson)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] WPtouch Mobile Plugin : v4.3.37 (WPtouch)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] WP Migrate DB : v1.0.11 (Delicious Brains)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] WP Multi-Network : v2.2.0 (johnjamesjacoby, ddean, BrianLayman, rmccue)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Network Plugin Auditor : v1.10.1 (Katherine Semel)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Akismet Anti-Spam : v4.1.2 (Automattic)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Broken Link Checker : v1.11.8 (ManageWP)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Classic Editor : v1.5 (WordPress Contributors)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Accordion Shortcode And Widget : v1.7.7 (wpshopmart)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Blubrry PowerPress : v7.4.4 (Blubrry)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Embed Any Document : v2.4.1 (Awsm Innovations)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Neo Teaching Api : v1.0 (tsmith)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Organize Series : v2.5.12 (Darren Ethier)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Podcating mp3 List : v1.0 (Thomas Smith)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] cPanel Manager (from iControlWP) : v1.8.2 (iControlWP)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Free SSL Certificate for WordPress - SSL Zen : v1.2 (Sagar Patil)
+[19/Jul/2019:03:36:47] (ℹ️): [PLUGIN] Elementor : v2.6.2 (Elementor.com)

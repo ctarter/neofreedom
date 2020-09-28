@@ -1,0 +1,2 @@
+=== GD Topic Polls ===
+== List of included languages ==

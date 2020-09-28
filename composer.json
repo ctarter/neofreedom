@@ -1,0 +1,5 @@
+{
+    "require": {
+        "aaemnnosttv/wp-cli-login-server": "^1.2"
+    }
+}

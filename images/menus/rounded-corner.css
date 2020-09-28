@@ -1,0 +1,26 @@
+.roundedcornr_box_489734 {
+    background: url(roundedcornr_489734_tl.png) no-repeat top left;
+}
+.roundedcornr_top_489734 {
+    background: url(roundedcornr_489734_tr.png) no-repeat top right;
+}
+.roundedcornr_bottom_489734 {
+    background: url(roundedcornr_489734_bl.png) no-repeat bottom left;
+}
+.roundedcornr_bottom_489734 div {
+    background: url(roundedcornr_489734_br.png) no-repeat bottom right;
+}
+.roundedcornr_content_489734 {
+    background: url(roundedcornr_489734_r.png) top right repeat-y;
+}
+
+.roundedcornr_top_489734 div,.roundedcornr_top_489734,
+.roundedcornr_bottom_489734 div, .roundedcornr_bottom_489734 {
+    width: 100%;
+    height: 15px;
+    font-size: 1px;
+}
+.roundedcornr_content_489734, .roundedcornr_bottom_489734 {
+    margin-top: -19px;
+}
+.roundedcornr_content_489734 { padding: 0 15px; }

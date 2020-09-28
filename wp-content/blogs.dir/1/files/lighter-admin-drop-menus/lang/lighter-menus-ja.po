@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-06 22:30+0100\n"
+"PO-Revision-Date: 2008-05-06 22:31+0100\n"
+"Last-Translator: corpodibacco <corpodibacco@italyisfalling.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\xampplite\\htdocs\\wordpress\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lighter-menus.php:81
+msgid "Write"
+msgstr "作成"
+
+#: ../lighter-menus.php:84
+msgid "Manage"
+msgstr "管理"
+
+#: ../lighter-menus.php:111
+#: ../lighter-menus.php:787
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: ../lighter-menus.php:189
+msgid "Settings"
+msgstr "設定"
+
+#: ../lighter-menus.php:190
+#: ../lighter-menus.php:857
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: ../lighter-menus.php:191
+msgid "Users"
+msgstr "ユーザー"
+
+#: ../lighter-menus.php:791
+msgid "Post"
+msgstr "投稿"
+
+#: ../lighter-menus.php:794
+msgid "Page"
+msgstr "ページ"
+
+#: ../lighter-menus.php:797
+msgid "Link"
+msgstr "リンク"
+
+#: ../lighter-menus.php:801
+msgid "Posts"
+msgstr "投稿"
+
+#: ../lighter-menus.php:804
+msgid "Pages"
+msgstr "ページ"
+
+#: ../lighter-menus.php:807
+msgid "Links"
+msgstr "リンク"
+
+#: ../lighter-menus.php:810
+msgid "Tags"
+msgstr "タグ"
+
+#: ../lighter-menus.php:813
+msgid "Link Categories"
+msgstr "リンクカテゴリー"
+
+#: ../lighter-menus.php:816
+msgid "Media Library"
+msgstr "メディアライブラリー"
+
+#: ../lighter-menus.php:820
+msgid "Themes"
+msgstr "テーマ"
+
+#: ../lighter-menus.php:823
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: ../lighter-menus.php:826
+msgid "Theme Editor"
+msgstr "テーマエディタ"
+
+#: ../lighter-menus.php:829
+msgid "Header Image and Color"
+msgstr "ヘッダー画像と色をリセットする"
+
+#: ../lighter-menus.php:833
+msgid "Uploads"
+msgstr "アップロード"
+
+#: ../lighter-menus.php:836
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: ../lighter-menus.php:839
+msgid "Comments"
+msgstr "コメント"
+
+#: ../lighter-menus.php:842
+#, php-format
+msgid "Awaiting Moderation (%s)"
+msgstr "承認待ち (%s)"
+
+#: ../lighter-menus.php:845
+msgid "Files"
+msgstr "ファイル"
+
+#: ../lighter-menus.php:848
+msgid "Import"
+msgstr "インポート"
+
+#: ../lighter-menus.php:851
+msgid "Export"
+msgstr "エクスポート"
+
+#: ../lighter-menus.php:854
+msgid "Import Links"
+msgstr "リンクをインポート"
+
+#: ../lighter-menus.php:860
+msgid "Plugin Editor"
+msgstr "プラグインエディタ"
+
+#: ../lighter-menus.php:863
+msgid "Your Profile"
+msgstr "あなたのプロフィール"
+
+#: ../lighter-menus.php:866
+#: ../lighter-menus.php:891
+msgid "Authors &amp; Users"
+msgstr "投稿者とユーザー"
+
+#: ../lighter-menus.php:869
+msgid "General"
+msgstr "一般設定"
+
+#: ../lighter-menus.php:872
+msgid "Writing"
+msgstr "投稿設定"
+
+#: ../lighter-menus.php:875
+msgid "Reading"
+msgstr "表示設定"
+
+#: ../lighter-menus.php:878
+msgid "Discussion"
+msgstr "ディスカッション"
+
+#: ../lighter-menus.php:881
+msgid "Privacy"
+msgstr "プライバシー"
+
+#: ../lighter-menus.php:884
+msgid "Permalinks"
+msgstr "パーマリンクの設定"
+
+#: ../lighter-menus.php:887
+msgid "Miscellaneous"
+msgstr "その他の設定"
+
+#: ../lighter-menus.php:925
+#, php-format
+msgid "<strong>Options saved.</strong> You should probably <a href=\"%s\">open this page</a> again."
+msgstr "<strong>設定は保存されました。</strong>反映するには、<a href=\"%s\">こちら</a>をクリックしてください。"
+
+#: ../lighter-menus.php:957
+msgid "Deactivate Lighter Menus"
+msgstr "Lighter Menusを停止する"
+
+#: ../lighter-menus.php:959
+msgid "Click Here</a> to deactivate Lighter Menus."
+msgstr "こちら</a>をクリックするとLighter Menusを停止することができます。"
+
+#: ../lighter-menus.php:961
+msgid "Warning:"
+msgstr "注意："
+
+#: ../lighter-menus.php:962
+msgid "The plugin options will be removed."
+msgstr "プラグインの設定は削除されます。"
+
+#: ../lighter-menus.php:963
+msgid "The plugin folder will be removed."
+msgstr "プラグインフォルダは削除されます。"
+
+#: ../lighter-menus.php:983
+msgid "Customization Options"
+msgstr "カスタマイズの設定"
+
+#: ../lighter-menus.php:984
+msgid "These options can be used to customize the appearance of the menus."
+msgstr "以下の設定でメニューの表示をカスタマイズすることができます。"
+
+#: ../lighter-menus.php:991
+msgid "Display icons in the menus."
+msgstr "メニューのアイコンを表示。"
+
+#: ../lighter-menus.php:996
+msgid "Hide the regular admin submenu."
+msgstr "サブメニューの非表示。"
+
+#: ../lighter-menus.php:1001
+msgid "Show the \"Settings\" \"Plugin\" and \"Users\" menus in a different color and keep them to the right side if new plugin menus are added."
+msgstr "\"設定\"と\"プラグイン\"と\"ユーザー\"を他のメニューと違う色で表示し、新しいプラグインがある場合は右に移動。"
+
+#: ../lighter-menus.php:1006
+msgid "Remove the 'Help' and 'Forum' links from the user menu."
+msgstr "ユーザーメニューにある'ヘルプ'と'フォーラム'を削除。"
+
+#: ../lighter-menus.php:1011
+msgid "Remove the 'Howdy' before the user menu."
+msgstr "ユーザーメニューにある'こんにちは'を削除。"
+
+#: ../lighter-menus.php:1016
+msgid "Show the total comments awaiting moderation even with zero comments to moderate."
+msgstr "承認待ちのコメント数がゼロでも表示。"
+
+#: ../lighter-menus.php:1021
+#, php-format
+msgid "A menu with more than %x lines will not drop down in a column but float to the right."
+msgstr "%x行以上あるメニューはドロップダウンではなく、右に向かって表示されます。"
+
+#: ../lighter-menus.php:1026
+msgid "Update Options &raquo;"
+msgstr "設定を更新 &raquo;"
+
+#: ../lighter-menus.php:1030
+msgid "Deactivation"
+msgstr "停止"
+
+#: ../lighter-menus.php:1031
+msgid "Use this to deactivate Lighter Menus and optionally remove it completely."
+msgstr "こちらでLighter Menusの停止と完全削除を行えます。"
+
+#: ../lighter-menus.php:1036
+msgid "When deactivating"
+msgstr "停止にする"
+
+#: ../lighter-menus.php:1039
+msgid "Remove the above options from the database."
+msgstr "上の設定のデータベースを削除。"
+
+#: ../lighter-menus.php:1041
+msgid "Remove the plugin folder."
+msgstr "プラグインフォルダを削除。"
+
+#: ../lighter-menus.php:1046
+msgid "Deactivate Lighter Menus &raquo;"
+msgstr "Lighter Menusを停止 &raquo;"
+
+#: ../lighter-menus.php:1053
+msgid "Plugin's Homepage"
+msgstr "プラグインのホームページ"
+
+#: ../lighter-menus.php:1055
+msgid "Other plugins"
+msgstr "他のプラグイン"
+
+#: ../lighter-menus.php:1062
+msgid "Lighter Menus Options"
+msgstr "Lighter Menusの設定"
+
+#: ../lighter-menus.php:1114
+msgid "Could not access filesystem."
+msgstr "ファイルシステムにアクセスすることができませんでした。"
+
+#: ../lighter-menus.php:1115
+msgid "Filesystem error"
+msgstr "ファイルシステムエラー"
+
+#: ../lighter-menus.php:1126
+msgid "Ooops. The plugin is not in its own folder, or there is something else going on."
+msgstr "このプラグインはフォルダにないか、または何か別の問題があります。"
+
+#: ../lighter-menus.php:1130
+msgid "Could not remove the plugin folder"
+msgstr "プラグインフォルダを削除することができませんでした"
+

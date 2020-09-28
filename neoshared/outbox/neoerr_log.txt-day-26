@@ -1,0 +1,4 @@
+[26-Dec-2014 15:15:30 America/Los_Angeles] Debug Mode STOPPED.neo-base.inc:13
+[26-Dec-2014 15:15:30 America/Los_Angeles] PHP Fatal error:  Call to undefined function add_filter() in /home/opcomm/neoxenos.org/neoshared/neo-hooks-full.inc on line 26
+[26-Dec-2014 22:55:56 America/Los_Angeles] Debug Mode STOPPED.neo-base.inc:13
+[26-Dec-2014 22:55:56 America/Los_Angeles] Debug Mode STOPPED.neo-base.inc:13

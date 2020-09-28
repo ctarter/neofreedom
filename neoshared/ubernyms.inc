@@ -1,0 +1,2 @@
+<?php
+    $neopackage['glossary'] = array(

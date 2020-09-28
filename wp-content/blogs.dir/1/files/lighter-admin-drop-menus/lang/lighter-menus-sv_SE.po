@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lighter Menus 2.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-06 22:29+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mikael Jorhult <mikael@mishkin.se>\n"
+"Language-Team: mishkin.se <mikael@mishkin.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: Sweden\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lighter-menus.php:81
+msgid "Write"
+msgstr "Skriv"
+
+#: ../lighter-menus.php:84
+msgid "Manage"
+msgstr "Redigera"
+
+#: ../lighter-menus.php:111
+#: ../lighter-menus.php:787
+msgid "Dashboard"
+msgstr "Panel"
+
+#: ../lighter-menus.php:189
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../lighter-menus.php:190
+#: ../lighter-menus.php:857
+msgid "Plugins"
+msgstr "Tillägg"
+
+#: ../lighter-menus.php:191
+msgid "Users"
+msgstr "Användare"
+
+#: ../lighter-menus.php:791
+msgid "Post"
+msgstr "Inlägg"
+
+#: ../lighter-menus.php:794
+msgid "Page"
+msgstr "Sida"
+
+#: ../lighter-menus.php:797
+msgid "Link"
+msgstr "Länk"
+
+#: ../lighter-menus.php:801
+msgid "Posts"
+msgstr "Inlägg"
+
+#: ../lighter-menus.php:804
+msgid "Pages"
+msgstr "Sidor"
+
+#: ../lighter-menus.php:807
+msgid "Links"
+msgstr "Länkar"
+
+#: ../lighter-menus.php:810
+msgid "Tags"
+msgstr "Etiketter"
+
+#: ../lighter-menus.php:813
+msgid "Link Categories"
+msgstr "Länkkategorier"
+
+#: ../lighter-menus.php:816
+msgid "Media Library"
+msgstr "Mediabibliotek"
+
+#: ../lighter-menus.php:820
+msgid "Themes"
+msgstr "Teman"
+
+#: ../lighter-menus.php:823
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../lighter-menus.php:826
+msgid "Theme Editor"
+msgstr "Redigera dina teman"
+
+#: ../lighter-menus.php:829
+msgid "Header Image and Color"
+msgstr "Valbar sidhuvudsbild "
+
+#: ../lighter-menus.php:833
+msgid "Uploads"
+msgstr "Uppladdade filer"
+
+#: ../lighter-menus.php:836
+msgid "Categories"
+msgstr "Kategorier"
+
+#: ../lighter-menus.php:839
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: ../lighter-menus.php:842
+#, php-format
+msgid "Awaiting Moderation (%s)"
+msgstr "Väntar på moderering (%s)"
+
+#: ../lighter-menus.php:845
+msgid "Files"
+msgstr "Filer"
+
+#: ../lighter-menus.php:848
+msgid "Import"
+msgstr "Importera"
+
+#: ../lighter-menus.php:851
+msgid "Export"
+msgstr "Exportera"
+
+#: ../lighter-menus.php:854
+msgid "Import Links"
+msgstr "Importera länkar"
+
+#: ../lighter-menus.php:860
+msgid "Plugin Editor"
+msgstr "Tilläggsredigerare"
+
+#: ../lighter-menus.php:863
+msgid "Your Profile"
+msgstr "Din profil"
+
+#: ../lighter-menus.php:866
+#: ../lighter-menus.php:891
+msgid "Authors &amp; Users"
+msgstr "Författare &amp; användare"
+
+#: ../lighter-menus.php:869
+msgid "General"
+msgstr "Allmänt"
+
+#: ../lighter-menus.php:872
+msgid "Writing"
+msgstr "Skriva"
+
+#: ../lighter-menus.php:875
+msgid "Reading"
+msgstr "Läsa"
+
+#: ../lighter-menus.php:878
+msgid "Discussion"
+msgstr "Diskussion"
+
+#: ../lighter-menus.php:881
+msgid "Privacy"
+msgstr "Skydd"
+
+#: ../lighter-menus.php:884
+msgid "Permalinks"
+msgstr "Permalänkar"
+
+#: ../lighter-menus.php:887
+msgid "Miscellaneous"
+msgstr "Övrigt"
+
+#: ../lighter-menus.php:925
+#, php-format
+msgid "<strong>Options saved.</strong> You should probably <a href=\"%s\">open this page</a> again."
+msgstr "<strong>Inställningarna sparades.</strong> Du borde antagligen besöka <a href=\"%s\">denna sida</a> igen."
+
+#: ../lighter-menus.php:957
+msgid "Deactivate Lighter Menus"
+msgstr "Avaktivera Lighter Menus"
+
+#: ../lighter-menus.php:959
+msgid "Click Here</a> to deactivate Lighter Menus."
+msgstr "Klicka här</a> för att avaktivera Lighter Menus."
+
+#: ../lighter-menus.php:961
+msgid "Warning:"
+msgstr "Varning:"
+
+#: ../lighter-menus.php:962
+msgid "The plugin options will be removed."
+msgstr "Tilläggets inställningar kommer att raderas."
+
+#: ../lighter-menus.php:963
+msgid "The plugin folder will be removed."
+msgstr "Tilläggets katalog kommer att raderas."
+
+#: ../lighter-menus.php:983
+msgid "Customization Options"
+msgstr "Inställningar för visning"
+
+#: ../lighter-menus.php:984
+msgid "These options can be used to customize the appearance of the menus."
+msgstr "Dessa inställningar kan användas för att skräddarsy menyernas utseende."
+
+#: ../lighter-menus.php:991
+msgid "Display icons in the menus."
+msgstr "Visa ikoner i menyerna."
+
+#: ../lighter-menus.php:996
+msgid "Hide the regular admin submenu."
+msgstr "Dölj de vanliga undermenyerna."
+
+#: ../lighter-menus.php:1001
+msgid "Show the \"Settings\" \"Plugin\" and \"Users\" menus in a different color and keep them to the right side if new plugin menus are added."
+msgstr "Visa menyerna \"Inställningar\", \"Tillägg\" och \"Användare\" i en annan färg och placera dem på höger sida om nya menyalternativ för tilläggs läggs till."
+
+#: ../lighter-menus.php:1006
+msgid "Remove the 'Help' and 'Forum' links from the user menu."
+msgstr "Ta bort \"Hjälp\"- och \"Forum\"-länkarna från användarmenyn."
+
+#: ../lighter-menus.php:1011
+msgid "Remove the 'Howdy' before the user menu."
+msgstr "Ta bort hälsningen från användarmenyn."
+
+#: ../lighter-menus.php:1016
+msgid "Show the total comments awaiting moderation even with zero comments to moderate."
+msgstr "Visa antalet kommentarer som väntar på moderation även om talet är noll."
+
+#: ../lighter-menus.php:1021
+#, php-format
+msgid "A menu with more than %x lines will not drop down in a column but float to the right."
+msgstr "En meny med mer än %x rader visas in som dropdown-meny utan visas hosontellt till höger."
+
+#: ../lighter-menus.php:1026
+msgid "Update Options &raquo;"
+msgstr "Uppdatera inställningar &raquo;"
+
+#: ../lighter-menus.php:1030
+msgid "Deactivation"
+msgstr "Avaktivering"
+
+#: ../lighter-menus.php:1031
+msgid "Use this to deactivate Lighter Menus and optionally remove it completely."
+msgstr "Använd detta för att avaktivera Ligther Menus. Du kan också radera det om detta väljs."
+
+#: ../lighter-menus.php:1036
+msgid "When deactivating"
+msgstr "Under avaktiveringen"
+
+#: ../lighter-menus.php:1039
+msgid "Remove the above options from the database."
+msgstr "Radera ovanstående inställningar från databasen."
+
+#: ../lighter-menus.php:1041
+msgid "Remove the plugin folder."
+msgstr "Radera tilläggets katalog."
+
+#: ../lighter-menus.php:1046
+msgid "Deactivate Lighter Menus &raquo;"
+msgstr "Avaktivera Lighter Menus &raquo;"
+
+#: ../lighter-menus.php:1053
+msgid "Plugin's Homepage"
+msgstr "Tilläggets hemsida"
+
+#: ../lighter-menus.php:1055
+msgid "Other plugins"
+msgstr "Andra tillägg"
+
+#: ../lighter-menus.php:1062
+msgid "Lighter Menus Options"
+msgstr "Lighter Menus Inställningar"
+
+#: ../lighter-menus.php:1114
+msgid "Could not access filesystem."
+msgstr "Kunde komma åt filsystemet."
+
+#: ../lighter-menus.php:1115
+msgid "Filesystem error"
+msgstr "Filsystemsfel"
+
+#: ../lighter-menus.php:1126
+msgid "Ooops. The plugin is not in its own folder, or there is something else going on."
+msgstr "Hoppsan. Tillägget ligger inte i en egen katalog eller så är något annat fel."
+
+#: ../lighter-menus.php:1130
+msgid "Could not remove the plugin folder"
+msgstr "Kunde inte radera tilläggets katalog"
+
+#~ msgid "codex.wordpress.org"
+#~ msgstr "codex.wordpress.org"
+#~ msgid "Options saved."
+#~ msgstr "Options saved."
+#~ msgid "Uninstall Lighter Menus"
+#~ msgstr "Uninstall Lighter Menus"
+#~ msgid ""
+#~ "Differentiate and keep the \"Plugin\" \"Settings\" and \"Users\" to the "
+#~ "right side of the main menu."
+#~ msgstr ""
+#~ "Differentiate and keep the \"Plugin\" \"Settings\" and \"Users\" to the "
+#~ "right side of the main menu."
+
