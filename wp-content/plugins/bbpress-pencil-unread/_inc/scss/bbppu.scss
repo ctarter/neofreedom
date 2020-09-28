@@ -1,0 +1,68 @@
+@import "compass/css3";
+
+$color-read:    #EAEAEA;
+$color-unread:  #21759B;
+$border-width:  5px;
+
+body{
+    
+    a.bbppu-hentry, ul.bbppu-hentry > li:first-child {
+      @include transition(border 500ms ease-out);
+    }
+    
+    .bbppu-bookmark{
+        .bbppu-bookmark-icon{
+            text-decoration: none;
+            &.dashicons{
+                font-size: 1.5em;
+            }
+        }
+    }
+
+    .bbppu-mark-as-read {
+      margin-bottom: 15px;
+      text-align: right;
+      a {
+        .bbppu-loading{
+            @include opacity(0);
+        }
+        &.loading {
+            .bbppu-loading{
+                @include opacity(1);
+            }
+        }
+      }
+    }
+    &:not(.rtl){
+        a.bbppu-hentry, ul.bbppu-hentry > li:first-child {
+          padding-left: $border-width;
+        }
+
+        a.bbppu-hentry.bbppu-read, 
+        ul.bbppu-hentry.bbppu-read > li:first-child {
+            border-left: $border-width solid $color-read;
+        }
+
+        a.bbppu-hentry.bbppu-unread, 
+        ul.bbppu-hentry.bbppu-unread > li:first-child {
+            border-left: $border-width solid $color-unread;
+        }
+    }
+    
+    &.rtl{
+        a.bbppu-hentry, ul.bbppu-hentry > li:first-child {
+          padding-right: $border-width;
+        }
+
+        a.bbppu-hentry.bbppu-read, 
+        ul.bbppu-hentry.bbppu-read > li:first-child {
+            border-right: $border-width solid $color-read;
+        }
+
+        a.bbppu-hentry.bbppu-unread, 
+        ul.bbppu-hentry.bbppu-unread > li:first-child {
+            border-right: $border-width solid $color-unread;
+        }
+    }
+}
+

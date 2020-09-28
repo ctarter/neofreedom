@@ -1,0 +1,27 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^(www\.)?neofreedom.org$ [NC]
+RewriteRule ^/?classes/(.*)$ http://classes.neofreedom.org/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^(www\.)?neofreedom.org$ [NC]
+RewriteRule ^/?podcasts/(.*)$ http://podcasts.neofreedom.org/$1 [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?neofreedom.org$ [NC]
+RewriteRule ^/?forums/(.*)$ http://forums.neofreedom.org/$1 [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+# BEGIN WordPress
+#uploaded files
+RewriteRule ^(.*/)?files/$ index.php [L]
+RewriteCond %{REQUEST_URI} !.*wp-content/plugins.*
+RewriteRule ^(.*/)?files/(.*) wp-includes/ms-files.php?file=$2 [L]
+# add a trailing slash to /wp-admin
+RewriteCond %{REQUEST_URI} ^.*/wp-admin$
+RewriteRule ^(.+)$ $1/ [R=301,L]
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule . - [L]
+RewriteRule ^(wp-(content|admin|includes).*) $2 [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?(.*\.php)$ $2 [L]
+RewriteRule . index.php [L]
+# END WordPress

@@ -1,0 +1,245 @@
+/**
+* Version 0.3.4
+*/
+select#page_id {
+   width: 120px;
+}
+
+.neo-table {
+    width: 100%;
+    font-size: 9pt;
+    line-height: 150%;
+}
+.neo-table td, .neo-table th {
+    vertical-align: top;
+    padding: 5px 10px;
+    text-align: left;
+    border-bottom: 1px dotted blue;
+}
+.neo-table small {
+    font-size: 8pt;
+    font-style: italic;
+}
+.neo-table th {
+    border: 1px solid blue;
+    font-weight: bold;
+}
+.sitebuttons {
+    padding-top: 20px;
+}
+   .mu_register form {
+        font-style: italic;
+        font-size: 0.9em;
+   }
+   .widecolumn .mu_register  {
+        width: 400px;
+        margin: 20px auto;
+        color: white;
+   }
+   .mu_register p {
+   margin: 1.3em;
+   }
+   .mu_register input {
+    font-size: 24px;
+    margin: 5px 0;
+    width: 100%;
+   }
+.postbox .neo-table th {
+    border: none;
+
+}
+
+   .mu_register label {
+   font-style: normal;
+   margin: 10px 0 5px 0;
+   font-size: 1em;
+   }
+#wikitext {
+    font-size: 1em;
+    }
+#featured .rss-block a {
+    color: #333333;
+}
+.rss-date {
+    font-style: italic;
+}
+#featured .rss-block {
+    color: black;
+    padding: 5px;
+    font-size: 9px;
+    text-align: left;
+    }
+
+.rss-block {
+    padding: 5px;
+    text-align: left;
+}
+
+.rss-block a {
+    text-decoration: underline;
+}
+.rss-item {
+display: block;
+margin: 5px 0px;
+}
+.rss-block img {
+    border: 1px solid;
+}
+.rss-block-title, .rss-title, .simplepie .title {
+    display: block;
+    font-weight: bold;
+    margin: 10px -10px;
+    font-size: 11pt;
+}
+
+.rss-morelink, .more-link {
+    display: block;
+    margin: 10px 20px;
+    float: right;
+}
+.more-link img {
+    border: none;
+    padding-left: 5px;
+    margin: 0;
+}
+
+.rss-meta, .simplepie .date, .simplepie .meta {
+    font-style: italic;
+    font-size: 8pt;
+}
+.simplepie .meta .author {
+    font-weight: bold;
+}
+.neoblogs  .simplepie .date {
+    display: block;
+    width: 100%;
+    margin: 5px 0 5px 10px;
+}
+
+.rss-subscribe {
+    padding-right: 20px;
+    background: transparent url(images/icons/rss_16.png) no-repeat right;
+    text-align: right;
+}
+.rss-meta a{
+font-weight: normal;
+}
+.simplepie .meta a {
+    font-weight: bold;
+}
+
+.rss-body {
+    margin-top: 5px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.simplepie {
+    font-size: 8pt;
+    margin: 10px 0;
+}
+.neoblogs .simplepie .date {
+    font-style: italic;
+    padding: 0 5px 0 0;
+}
+#sidebar .simplepie ol {
+    padding-left: 5px;
+}
+.more-link img {
+    margin-bottom:-2px;
+}
+img.thumb {
+    max-width: 90px;
+    max-height: 90px;
+    border: 1px solid;
+}
+.more-link a:hover {
+    border: 1px solid gray;
+    text-decoration: none;
+}
+.more-link {
+    text-decoration:none;
+    font-size: 8pt;
+    line-height: 14pt;
+    background-color: transparent;
+    padding: 5px;
+    float: right;
+}
+div.more-link {
+    width: 100%;
+    text-align: right;
+}
+.more-link a:link, .more-link a   {
+    border: none;
+    border: 1px solid transparent;
+    text-decoration: none;
+}
+.more-link img {
+    border: none;
+    padding: 0 5px;
+}
+.scroll-window  {
+    height:280px;
+    overflow: scroll;
+    font-size: 9pt;
+    padding: 0 0 20px;
+}
+#lead-image img {
+    float:left;
+    margin: 0 20px 10px 0;
+    padding:1px;
+    border:1px solid #999;
+}
+.recent li { /* also had .serieslist-li,.serieslist-li-current  */
+    list-style-type:none;
+    margin-bottom:5px;
+    padding-left:5px;
+    margin-left: 20px;
+    list-style-image: url(http://neozine.org/images/icons/recent.png);
+}
+
+.recent-comments li, #recentcomments li
+{
+    margin-bottom:5px;
+    padding-left:5px;
+    font-size: 9pt;
+    margin-left: 5px;
+    list-style: none;
+    list-style-image: url(http://neozine.org/images/icons/comment.gif);
+}
+.podcasts li {
+    list-style: none;
+    list-style-image: url(http://neozine.org/images/icons/podcast.png);
+}
+.podcasts li a {
+    font-size: 11pt;
+}
+.commentlist li {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#EEEEEE none repeat scroll 0 0;
+border-bottom:1px solid #999999;
+border-top:1px solid #999999;
+margin:15px 0 3px;
+padding:8px 15px 10px;
+    list-style: none;
+}
+.comment-author img {
+    float: left;
+}
+.commentlist p {
+    clear: left;
+}
+.commentlist cite.fn {
+    float: none;
+}
+#content .commentlist .commentnumber {
+    margin-top: 15px;
+}
+.neo_exception {
+    line-height: 8px;
+    font-size: 8px;
+    margin: 10px;
+}
